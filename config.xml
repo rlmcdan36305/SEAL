@@ -3,7 +3,7 @@
     
     <name>SE AL Magazine</name>
     <description>LA place for Queens to posts</description>
-    <author email="chris@" href="http://www.agameoftwohalves.com">AGOTH Webmaster</author>
+    <author email="ralphm@studioenvogue.com" href="http://southeastalabamamagazine.com/index.php/login-2">SEAL Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
