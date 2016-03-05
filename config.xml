@@ -2,7 +2,7 @@
 <widget id="com.aSEALMAG.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>SE AL Magazine</name>
-    <description>LA place for Queens to posts</description>
+    <description>A place for Queens to posts</description>
     <author email="ralphm@studioenvogue.com" href="http://southeastalabamamagazine.com/index.php/login-2">SEAL Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
